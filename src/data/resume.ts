@@ -3,7 +3,7 @@ export const resume = {
   title: "Principal Technical Support Engineer & Full-Stack Architect",
   location: "Yokohama, Kanagawa, Japan",
   phone: "+81 075-771-5893",
-  email: "crownelf4@gmail.com",
+  email: "sato.takeru05@gmail.com",
   linkedin: "https://linkedin.com/in/sato-takeru-2966b5a3",
   github: "https://github.com/GeorgeLxL",
   summary:
